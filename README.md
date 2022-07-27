@@ -5,6 +5,10 @@
 <p align="center"> <b> A macOS BigSur-like theme for your GTK apps </b> </p>
 <br>
 
+# Note
+### Ubuntu 22.04 + 4K Display
+`./install.sh -i ubuntu -N mojave -HD -s 260 -l`
+
 # Installation is easy!
 <details> <summary> Required dependencies info for nerds </summary>
 
