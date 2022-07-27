@@ -7,6 +7,8 @@
 
 # Note
 ### Ubuntu 22.04 + 4K Display
+In `Tweaks`, set `Scaling Factor` of `Fonts` to 1.6
+
 `./install.sh -i ubuntu -N mojave -HD -s 260 -l`
 
 # Installation is easy!
